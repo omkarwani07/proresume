@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proresume/static/css/main.719083d2.css",
+    "main.js": "/proresume/static/js/main.dc78238d.js",
+    "static/media/hero.svg": "/proresume/static/media/hero.4246c7b31fe09afda1e2624a9fbc59f8.svg",
+    "index.html": "/proresume/index.html",
+    "main.719083d2.css.map": "/proresume/static/css/main.719083d2.css.map",
+    "main.dc78238d.js.map": "/proresume/static/js/main.dc78238d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719083d2.css",
+    "static/js/main.dc78238d.js"
+  ]
+}
